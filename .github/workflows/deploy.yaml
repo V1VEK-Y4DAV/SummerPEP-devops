@@ -38,4 +38,4 @@ jobs:
             cd ~/SummerPEP-devops
             git pull origin master
             npm install
-            pm2 restart all
+            pm2 restart SummerPEP
