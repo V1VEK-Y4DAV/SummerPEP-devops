@@ -35,7 +35,7 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
 
           script: |
-            cd ~/devops-server
+            cd ~/SummerPeP-devops
             git pull origin master
             npm install
             pm2 restart all
