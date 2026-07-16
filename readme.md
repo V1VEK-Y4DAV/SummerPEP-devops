@@ -1,0 +1,2 @@
+# Learning DevOps through hands on Practice
+DevOps is a set of practices that unites software development and IT operations. It breaks down the walls between teams so they can build, test, and release software faster and more reliably.
